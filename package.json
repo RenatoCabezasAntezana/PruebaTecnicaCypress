@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress open",
-    "runChrome": "cypress run"
+    "runChrome": "cypress run",
+    "cy:run": "cypress run --headed",
+    "cy:parallel" : "cypress-parallel -s runChrome -t 3 -d ./cypress/e2e/"
   },
   "author": "Renato Cabezas",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.3.1"
+    "cypress": "^13.3.1",
+    "cypress-parallel": "^0.13.0"
   }
 }

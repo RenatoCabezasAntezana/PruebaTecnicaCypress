@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-10-17T06:54:34.087Z",
+  "duration": 6339,
+  "file": "cypress\\e2e\\login-blocked.cy.js"
+}
