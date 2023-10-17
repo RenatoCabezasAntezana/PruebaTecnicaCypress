@@ -33,7 +33,7 @@ npm install
 npm run test
 ```
 
-### **Para la ejecucion de los test en paralelo
+### **Para la ejecucion de los test en paralelo**
 ```bash
 npm run cy:parallel
 ```
