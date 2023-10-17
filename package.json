@@ -1,0 +1,15 @@
+{
+  "name": "pruebatecnicacypress",
+  "version": "1.0.0",
+  "description": "Automatizacion del login de acceso de la pagina web Swag Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "runChrome": "cypress run"
+  },
+  "author": "Renato Cabezas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.1"
+  }
+}
