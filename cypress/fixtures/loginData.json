@@ -1,0 +1,10 @@
+{
+  "usernameSuccessfull": "standard_user",
+  "passwordSuccessfull": "secret_sauce",
+
+  "usernameBlocked": "locked_out_user",
+  "passwordBlocked": "secret_sauce",
+  
+  "usernameIncorrect": "Renato",
+  "passwordIncorrect": "123456"
+}
