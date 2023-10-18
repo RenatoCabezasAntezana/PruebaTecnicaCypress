@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress open",
+    "cy:run": "cypress run --headed",
     "cy:parallel": "cypress-parallel -s cy:run -t 4 -d ./cypress/e2e/"
   },
   "author": "Renato Cabezas",
