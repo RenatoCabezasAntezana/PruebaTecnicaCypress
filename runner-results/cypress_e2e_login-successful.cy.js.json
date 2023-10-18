@@ -4,7 +4,7 @@
   "passes": 1,
   "pending": 0,
   "failures": 0,
-  "start": "2023-10-17T17:50:39.247Z",
-  "duration": 7542,
+  "start": "2023-10-18T20:43:08.857Z",
+  "duration": 12717,
   "file": "cypress\\e2e\\login-successful.cy.js"
 }
