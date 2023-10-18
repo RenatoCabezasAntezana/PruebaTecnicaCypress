@@ -9,6 +9,6 @@ jobs:
       - name: Instalar dependencias
         run: npm install
       - name: Cypress.io
-        uses: cypress-io/github-action@v2 # Cambiado a una versión más reciente
+        uses: cypress-io/github-action@v6.3.0
         with:
           start: npm run cy:parallel
